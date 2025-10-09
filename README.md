@@ -1,59 +1,44 @@
 # 🛌 Analisis Pola Tidur Mahasiswa (Sleep Pattern Analysis)
 
-[![Status Proyek](https://img.shields.io/badge/Status-Selesai-brightgreen)](https://github.com/[GANTI_DENGAN_NAMA_AKUN_ANDA]/[GANTI_DENGAN_NAMA_REPO_ANDA])
-[![Lisensi](https://img.shields.io/badge/Lisensi-MIT-blue)](https://github.com/[GANTI_DENGAN_NAMA_AKUN_ANDA]/[GANTI_DENGAN_NAMA_REPO_ANDA]/blob/main/LICENSE)
-[![Buka di Deepnote](https://deepnote.com/buttons/run-in-deepnote.svg)]([GANTI_DENGAN_LINK_PROYEK_DEEPNOTE_ANDA])
+[![Status Proyek](https://img.shields.io/badge/Status-In_Progress-yellow)](https://github.com/[GANTI_NAMA_AKUN_GITHUB_ANDA]/[GANTI_NAMA_REPO_ANDA])
+[![Buka di Deepnote](https://deepnote.com/buttons/run-in-deepnote.svg)](https://deepnote.com/workspace/Catyos-6c14d7d6-5b23-4ffe-b677-43b144e918a9/project/Hartono-Adji-Susantos-Untitled-project-fa20d55e-eca4-4fa7-9a55-61597c94c97d/notebook/IDE-SleepPatternAnalysis-8cef5959ebb74b2bbea46c916d8d1162?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=fa20d55e-eca4-4fa7-9a55-61597c94c97d)
 
-Proyek ini menyajikan analisis eksplorasi data (EDA) mengenai durasi tidur 30 mahasiswa. Tujuan utamanya adalah untuk mengidentifikasi pola tidur, menghitung metrik utama, dan memberikan rekomendasi berdasarkan durasi tidur ideal.
+Proyek ini adalah fase awal dari Analisis Eksplorasi Data (EDA) yang bertujuan untuk mengidentifikasi pola dan metrik durasi tidur pada sampel 30 mahasiswa. Proyek ini dijalankan sepenuhnya di lingkungan Deepnote.
 
----
-
-## 🚀 Cara Menjalankan Analisis (Interaktif)
-
-Anda dapat melihat dan menjalankan seluruh *notebook* analisis ini secara interaktif di lingkungan **Deepnote** tanpa perlu instalasi lokal. Ini ideal untuk presentasi dan modifikasi kode langsung (misalnya, oleh Dosen/Pengajar).
-
-### 1. Langsung di Deepnote (Paling Mudah)
-
-Klik tombol **"Buka di Deepnote"** di atas, atau klik link berikut:
-[GANTI_DENGAN_LINK_PROYEK_DEEPNOTE_ANDA]
-
-### 2. Prasyarat Lokal (Jika Ingin Dijalankan di Laptop Sendiri)
-
-1.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[GANTI_DENGAN_NAMA_AKUN_ANDA]/[GANTI_DENGAN_NAMA_REPO_ANDA].git
-    cd [GANTI_DENGAN_NAMA_REPO_ANDA]
-    ```
-2.  **Instal Dependensi:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Jalankan Notebook:** Buka `sleep_analysis.ipynb` (atau nama *notebook* Anda) menggunakan Jupyter Lab/Notebook.
+**Saat ini, *repository* fokus pada penyiapan data dan lingkungan komputasi.**
 
 ---
 
-## 📊 Struktur Proyek dan Data
+## 🚀 Tujuan Utama Proyek
+
+1.  Membersihkan dan memproses dataset durasi tidur mahasiswa.
+2.  Melakukan Analisis Eksplorasi Data (EDA) untuk mendapatkan statistik dasar (rata-rata, median, distribusi).
+3.  Membuat visualisasi data (histogram, *box plot*) untuk mengidentifikasi pola tidur.
+4.  Menyajikan temuan dan kesimpulan.
+
+---
+
+## 📊 Struktur Data Awal & File
 
 | File/Folder | Deskripsi |
 | :--- | :--- |
-| `sleep_analysis.ipynb` | Notebook utama yang berisi seluruh proses EDA, visualisasi, dan kesimpulan. |
-| `data/sleep_duration.csv` | Sumber data durasi tidur 30 mahasiswa. *(Pastikan Anda menamakan file datanya seperti ini)* |
-| `requirements.txt` | Daftar *library* Python yang dibutuhkan untuk mereproduksi lingkungan. |
-| `README.md` | Dokumen panduan ini. |
+| `IDE-SleepPatternAnalysis.ipynb` | *Notebook* utama untuk proses analisis dan visualisasi (EDA). |
+| `data/sleep_duration.csv` | Sumber data mentah yang digunakan untuk analisis. |
+| `requirements.txt` | Daftar *library* Python yang dibutuhkan untuk mereproduksi lingkungan kerja. |
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## 🛠 Lingkungan Kerja (Interactive)
 
-* **Bahasa:** Python 3.10+
-* **Analisis Data:** Pandas
-* **Visualisasi:** Matplotlib & Seaborn
-* **Platform:** Deepnote
+Proyek ini dirancang untuk dijalankan dan dimodifikasi secara interaktif di **Deepnote**.
+
+### Cara Memulai Analisis
+
+Klik tombol **"Buka di Deepnote"** di atas untuk meluncurkan *notebook* dan memulai pengerjaan analisis.
 
 ---
 
 ## 🤝 Kontributor
-
 * **Ibrahim Ahmad Adz Dzakwan** - 5241811006
 * **Dani Andra Tri Kurnia** - 5241811011
 * **Nyoman Arya Kristian Penny Karna Jaya** - 5241811013
