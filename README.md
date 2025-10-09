@@ -43,16 +43,6 @@ Klik tombol **"Buka di Deepnote"** di atas, atau klik link berikut:
 
 ---
 
-## 💡 Metrik & Temuan Utama
-
-*Sesi ini berisi rangkuman temuan yang akan Anda jelaskan saat presentasi.*
-
-1.  **Rata-rata Durasi Tidur:** [GANTI_DENGAN_ANGKA] jam.
-2.  **Durasi Tidur Terpendek:** [GANTI_DENGAN_ANGKA] jam (Mahasiswa: Zaki M.).
-3.  **Distribusi Tidur:** [GANTI_DENGAN_PENJELASAN_SINGKAT_TENTANG_HASIL_VISUALISASI]
-
----
-
 ## 🛠 Teknologi yang Digunakan
 
 * **Bahasa:** Python 3.10+
