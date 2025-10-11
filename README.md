@@ -1,4 +1,4 @@
-# 🛌 Analisis Pola Tidur Mahasiswa (Sleep Pattern Analysis)
+# Analisis Pola Tidur Mahasiswa (Sleep Pattern Analysis)
 
 [![Status Proyek](https://img.shields.io/badge/Status-In_Progress-yellow)](https://github.com/[GANTI_NAMA_AKUN_GITHUB_ANDA]/[GANTI_NAMA_REPO_ANDA])
 [![Buka di Deepnote](https://img.shields.io/badge/Buka%20di%20Deepnote-FF5722?style=flat&logo=jupyter&logoColor=white)](https://deepnote.com/workspace/Catyos-6c14d7d6-5b23-4ffe-b677-43b144e918a9/project/Hartono-Adji-Susantos-Untitled-project-fa20d55e-eca4-4fa7-9a55-61597c94c97d/notebook/IDE-SleepPatternAnalysis-8cef5959ebb74b2bbea46c916d8d1162?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=fa20d55e-eca4-4fa7-9a55-61597c94c97d)
